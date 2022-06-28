@@ -1,4 +1,4 @@
-package guru.sprinframework.sfgpetclinic.model;
+package guru.springframework.jiji.model;
 
 public class PetType {
 
