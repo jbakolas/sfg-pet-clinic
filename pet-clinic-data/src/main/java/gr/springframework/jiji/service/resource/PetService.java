@@ -1,6 +1,6 @@
-package guru.springframework.jiji.service.resource;
+package gr.springframework.jiji.service.resource;
 
-import guru.springframework.jiji.model.Pet;
+import gr.springframework.jiji.model.Pet;
 
 public interface PetService extends GenericService<Pet, Long> {
 

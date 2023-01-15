@@ -1,6 +1,6 @@
-package guru.springframework.jiji.repositories;
+package gr.springframework.jiji.repositories;
 
-import guru.springframework.jiji.model.Owner;
+import gr.springframework.jiji.model.Owner;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface OwnerRepository extends JpaRepository<Owner, Long> {

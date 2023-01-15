@@ -1,7 +1,7 @@
 package guru.springframework.sfgpetclinic.bootstrap;
 
-import guru.springframework.jiji.model.Owner;
-import guru.springframework.jiji.repositories.OwnerRepository;
+import gr.springframework.jiji.model.Owner;
+import gr.springframework.jiji.repositories.OwnerRepository;
 import org.springframework.boot.CommandLineRunner;
 
 public class BootstratpData implements CommandLineRunner {

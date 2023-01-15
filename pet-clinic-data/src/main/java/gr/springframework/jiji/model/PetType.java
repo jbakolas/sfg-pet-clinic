@@ -1,4 +1,4 @@
-package guru.springframework.jiji.model;
+package gr.springframework.jiji.model;
 
 public class PetType {
 

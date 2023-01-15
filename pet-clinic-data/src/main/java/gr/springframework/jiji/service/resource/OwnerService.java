@@ -1,6 +1,6 @@
-package guru.springframework.jiji.service.resource;
+package gr.springframework.jiji.service.resource;
 
-import guru.springframework.jiji.model.Owner;
+import gr.springframework.jiji.model.Owner;
 
 public interface OwnerService extends GenericService<Owner, Long> {
 

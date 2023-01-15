@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+gr.springframework.jiji.config.PersistenceConfig

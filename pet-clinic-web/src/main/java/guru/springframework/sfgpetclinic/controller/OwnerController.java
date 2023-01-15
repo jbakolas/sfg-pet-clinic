@@ -1,7 +1,7 @@
 package guru.springframework.sfgpetclinic.controller;
 
-import guru.springframework.jiji.model.Owner;
-import guru.springframework.jiji.service.resource.OwnerService;
+import gr.springframework.jiji.model.Owner;
+import gr.springframework.jiji.service.resource.OwnerService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.Set;

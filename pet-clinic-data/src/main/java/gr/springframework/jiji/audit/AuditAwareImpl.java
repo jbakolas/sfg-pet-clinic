@@ -1,4 +1,4 @@
-package guru.springframework.jiji.audit;
+package gr.springframework.jiji.audit;
 
 import org.springframework.data.domain.AuditorAware;
 

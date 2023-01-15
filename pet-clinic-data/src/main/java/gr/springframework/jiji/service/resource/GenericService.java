@@ -1,4 +1,4 @@
-package guru.springframework.jiji.service.resource;
+package gr.springframework.jiji.service.resource;
 
 import java.util.Set;
 

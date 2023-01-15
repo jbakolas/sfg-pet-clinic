@@ -1,8 +1,8 @@
-package guru.springframework.jiji.service.implementation;
+package gr.springframework.jiji.service.implementation;
 
-import guru.springframework.jiji.model.Owner;
-import guru.springframework.jiji.repositories.OwnerRepository;
-import guru.springframework.jiji.service.resource.OwnerService;
+import gr.springframework.jiji.model.Owner;
+import gr.springframework.jiji.repositories.OwnerRepository;
+import gr.springframework.jiji.service.resource.OwnerService;
 
 import java.util.HashSet;
 import java.util.Set;
